@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoseApplication<Spring-ACL-DEMO>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tds.ems.demose.DemoseApplication",
+            "projectName": "Spring-ACL-DEMO",
+            "args": ""
+        }
+    ]
+}
